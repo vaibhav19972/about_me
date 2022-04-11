@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhav19972
 - 👀 I’m interested in compitative programing and gaming
 - 🌱 I’m currently learning HTML CSS JAVAscript e.t.c 
-- 💞️ I’m looking to collaborate on making websites like amazon flipkart appel 
+- 💞️ I’m looking to collaborate on making websites like amazon flipkart apple
 - 📫 How to reach me mail me at raikwar.vaibhav95@gmail.com
 
 <!---
